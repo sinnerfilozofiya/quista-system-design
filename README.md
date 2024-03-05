@@ -4,7 +4,7 @@ This document contains the initial system design for our project. The image prov
 
 Please note that this design is in its early stages and may undergo significant changes as the project evolves. It is meant to guide initial discussions and development efforts.
 
-![Initial System Design](https://raw.githubusercontent.com/sinnerfilozofiya/quista-system-design/ca3fa8cf33a4e95fa6edcba44d9f570a398e2b53/quista-system-design.drawio.svg)
+![Initial System Design](./quista-system-design.drawio.svg)
 
 For more detailed information on each component and their interactions, please refer to the upcoming detailed design documents.
 
